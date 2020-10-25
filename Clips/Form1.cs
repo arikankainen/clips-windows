@@ -57,7 +57,7 @@ namespace Clips
 
                 else if (iData.GetDataPresent(DataFormats.Html))
                 {
-                    string text = "Clipboard contains HTMP.";
+                    string text = "Clipboard contains HTML.";
                     textBox1.Text = text;
                 }
 
